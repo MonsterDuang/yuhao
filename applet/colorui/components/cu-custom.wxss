@@ -1,0 +1,7 @@
+/* colorui/components/cu-custom.wxss */
+.cu-custom .cu-bar {
+  background-color: white
+}
+.cuIcon-back{
+  font-size: 43rpx;
+}
