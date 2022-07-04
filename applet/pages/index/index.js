@@ -13,9 +13,7 @@ Page({
   },
   // 事件处理函数
   bindViewTap() {
-    wx.navigateTo({
-      url: '../logs/logs'
-    })
+    app.utils.showToast("哈哈哈哈哈");
   },
   onLoad() {
     if (wx.getUserProfile) {
